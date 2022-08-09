@@ -37,6 +37,7 @@ print(randomCitizenID(), end="")
 ```
 
 Generate Number
+```python 
 #----------------------
 import random
 num = random.randint(100000000000,999999999999)
