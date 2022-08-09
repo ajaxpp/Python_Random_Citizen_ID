@@ -3,7 +3,7 @@
 
 
 ```python 
-# (c)20202 Aniwat Ruttanaudom
+# (c)2022 Aniwat Ruttanaudom
 
 import random
 
